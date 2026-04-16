@@ -1,0 +1,7 @@
+| sample_id      | sex    | perturbation | bam_path                    |
+| -------------- | ------ | ------------ | --------------------------- |
+| heart_f_ctrl_1 | female | control      | data/raw/heart_f_ctrl_1.bam |
+| heart_f_kd_1   | female | kdm6aKD      | data/raw/heart_f_kd_1.bam   |
+| heart_m_ctrl_1 | male   | control      | data/raw/heart_m_ctrl_1.bam |
+| heart_m_kd_1   | male   | kdm6aKD      | data/raw/heart_m_kd_1.bam   |
+

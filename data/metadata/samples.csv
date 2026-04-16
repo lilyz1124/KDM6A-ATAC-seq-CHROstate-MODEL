@@ -1,0 +1,5 @@
+sample_id,fragments_path,sex,perturbation,condition
+female_ctrl_1,data/raw/female_ctrl_1_fragments.tsv.gz,female,control,heart
+female_kd_1,data/raw/female_kd_1_fragments.tsv.gz,female,kdm6aKD,heart
+male_ctrl_1,data/raw/male_ctrl_1_fragments.tsv.gz,male,control,heart
+male_kd_1,data/raw/male_kd_1_fragments.tsv.gz,male,kdm6aKD,heart

@@ -1,0 +1,1 @@
+print("BPNet training placeholder: wire this to the kundajelab/bpnet CLI once signal tracks are ready.")
